@@ -1,0 +1,12 @@
+C:\Users\oswal\source\repos\Mi Validacion de Usuario2\bin\Debug\Mi Validacion de Usuario2.exe.config
+C:\Users\oswal\source\repos\Mi Validacion de Usuario2\bin\Debug\Mi Validacion de Usuario2.exe
+C:\Users\oswal\source\repos\Mi Validacion de Usuario2\bin\Debug\Mi Validacion de Usuario2.pdb
+C:\Users\oswal\source\repos\Mi Validacion de Usuario2\bin\Debug\Mi Validacion de Usuario2.xml
+C:\Users\oswal\source\repos\Mi Validacion de Usuario2\obj\Debug\Mi Validacion de Usuario2.vbproj.AssemblyReference.cache
+C:\Users\oswal\source\repos\Mi Validacion de Usuario2\obj\Debug\Mi_Validacion_de_Usuario2.Resources.resources
+C:\Users\oswal\source\repos\Mi Validacion de Usuario2\obj\Debug\Mi Validacion de Usuario2.vbproj.GenerateResource.cache
+C:\Users\oswal\source\repos\Mi Validacion de Usuario2\obj\Debug\Mi Validacion de Usuario2.vbproj.CoreCompileInputs.cache
+C:\Users\oswal\source\repos\Mi Validacion de Usuario2\obj\Debug\Mi Validacion de Usuario2.exe
+C:\Users\oswal\source\repos\Mi Validacion de Usuario2\obj\Debug\Mi Validacion de Usuario2.xml
+C:\Users\oswal\source\repos\Mi Validacion de Usuario2\obj\Debug\Mi Validacion de Usuario2.pdb
+C:\Users\oswal\source\repos\Mi Validacion de Usuario2\obj\Debug\Mi_Validacion_de_Usuario2.Form1.resources
